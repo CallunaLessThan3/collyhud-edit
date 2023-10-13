@@ -10,10 +10,10 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
 # Planned Changes
 ## Bug fixes
 - inventory
-    -item details cut off
-    -on loadouts, items details are too low z-level
+    - item details cut off
+    - on loadouts, items details are too low z-level
 - scoreboard
-    -duels break kda
+    - duels break kda
 
 ## Personal Changes
 - background for items on inspect
