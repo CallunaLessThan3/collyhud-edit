@@ -6,6 +6,8 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
     - The ones provided were broken, unsure if that was a linux problem or not
 - Scoreboard
     - Increased height of scoreboard slightly to remove scrollbar when 6 or 12 players
+- Deathcam
+    - Added transparent background behind killer health and name
 
 # Planned Changes
 ## Bug fixes
@@ -19,6 +21,5 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
 - background for items on inspect
 - health/ammo more centered
 - medi charge % slightly under crosshair
-- transparent background behind health on deathcam
 - bigger target id (prob too much effort)
 - update countdown pregame (?)
