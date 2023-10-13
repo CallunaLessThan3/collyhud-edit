@@ -122,17 +122,17 @@
 
 		"FreezePanelBG"
 		{
-			"ControlName"	"EditablePanel"
+			"ControlName"		"CTFImagePanel"
 			"fieldName"		"FreezePanelBG"
-			"xpos"			"c-40"
-			"ypos"			"c30"
+			"xpos"			"0"
+			"ypos"			"0"
 			"zpos"			"0"
-			"wide"			"80"
-			"tall"			"55"
+			"wide"			"256"
+			"tall"			"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"		"0 0 0 165"
-			"border"		"noborder"
+			"image"			"../hud/color_panel_blu"
+			"scaleImage"		"1"	
 			
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
@@ -182,7 +182,7 @@
 			"fieldName"		"FreezeLabelKiller"
 			"font"			"product14"
 			"xpos"			"0"
-			"ypos"			"c60"
+			"ypos"			"c65"
 			"zpos"			"25"
 			"wide"			"f0"
 			"tall"			"22"
