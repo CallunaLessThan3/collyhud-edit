@@ -7,15 +7,15 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
 - Scoreboard
     - Increased height of scoreboard slightly to remove scrollbar when 6 or 12 players
 
-# Planned Changes
-## Bug fixes
+## Planned Changes
+### Bug fixes
 - inventory
     - item details cut off
     - on loadouts, items details are too low z-level
 - scoreboard
     - duels break kda
 
-## Personal Changes
+### Personal Changes
 - background for items on inspect
 - health/ammo more centered
 - medi charge % slightly under crosshair
