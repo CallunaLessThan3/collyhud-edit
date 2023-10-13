@@ -9,15 +9,15 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
 - Deathcam
     - Added transparent background behind killer health and name
 
-## Planned Changes
-### Bug fixes
+# Planned Changes
+## Bug fixes
 - inventory
     - item details cut off
     - on loadouts, items details are too low z-level
 - scoreboard
     - duels break kda
 
-### Personal Changes
+## Personal Changes
 - background for items on inspect
 - health/ammo more centered
 - medi charge % slightly under crosshair
