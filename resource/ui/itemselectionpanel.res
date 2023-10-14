@@ -493,7 +493,7 @@
 		"xpos"			"c-70"
 		"ypos"			"270"
 		"zpos"			"9999"
-		"wide"			"178"
+		"wide"			"300"
 		"tall"			"1000"
 		"visible"		"0"
 		"bgcolor_override"		"0 0 0 165"
