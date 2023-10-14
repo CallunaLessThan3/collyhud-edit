@@ -338,11 +338,11 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ShowSelection"
-		"xpos"			"c100"
-		"ypos"			"340"
+		"xpos"			"4"
+		"ypos"			"0"
 		"zpos"			"20"
-		"wide"			"200"
-		"tall"			"25"
+		"auto_wide_tocontents"			"1"
+		"tall"			"16"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -357,6 +357,9 @@
 		"Command"		"show_selection"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"pin_to_sibling" "NameFilterTextEntry"
+		"pin_corner_to_sibling" "2"
+		"pin_to_sibling_corner" "3"
 	}
 	
 	"PrevPageButton"
