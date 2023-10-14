@@ -8,12 +8,12 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
     - Increased height of scoreboard slightly to remove scrollbar when 6 or 12 players
 - Inventory
     - Item details were cut off in loadout item selection, increased width to fix
+    - "View Valid Items" not formatted correctly, changed to match "View Entire Backpack"
 
 ## Planned Changes
 ### Bug fixes
 - inventory
     - on loadouts, items details are too low z-level
-    - view valid items not in right place
 - scoreboard
     - duels break kda (this might be intended)
 
