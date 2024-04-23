@@ -14,8 +14,9 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
 - Inventory
     - Item details were cut off in loadout item selection, increased width to fix
     - "View Valid Items" not formatted correctly, changed to match "View Entire Backpack"
-- Centered Medic Ubercharge %
-    - (this made vaccinator display rly shit but who uses that anyways)
+- Ubercharge %
+    - Moved uber % to slightly under crosshair
+    - (also made vaccinator display and its rly shit ,, its ok bc who uses that anyways)
 
 ## Planned Changes
 ### Bug fixes
@@ -25,7 +26,7 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
     - duels break kda (this might be intended)
 
 
-### Personal Changes
+### Personal
 - background for items on inspect
 - health/ammo more centered
 - bigger medic uber % on targetid (couldnt figure out how)
