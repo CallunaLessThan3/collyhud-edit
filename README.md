@@ -25,7 +25,7 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
     - duels break kda (this might be intended)
 
 
-### Planned Changes
+### Personal Changes
 - background for items on inspect
 - health/ammo more centered
 - bigger medic uber % on targetid (couldnt figure out how)
