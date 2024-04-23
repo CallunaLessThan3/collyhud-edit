@@ -2,7 +2,7 @@
 There won't be very many big changes, just some personal tweaks and hopefully fixes to stuff tf2 updates broke
 
 ### NOTE
-64-bit update broke somethings, idk if its specific to my pc but here are things that broke for me after update
+64-bit update broke some things, idk if its specific to my pc but here are things that broke for me after update
 - Game crashes when using hud_reloadscheme in a match
 - Any painted/festivized weapons art is transparent
 
