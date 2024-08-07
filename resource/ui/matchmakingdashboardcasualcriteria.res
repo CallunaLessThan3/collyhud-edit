@@ -84,7 +84,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"softgreen160"
+		"armedBgColor_override"		"MYPINK160"
 	}
 
 	"ToolTipButtonHack"

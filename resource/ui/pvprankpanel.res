@@ -368,7 +368,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"CreditsGreen"
+						"fgcolor_override"	"MYPINK"
 						"bgcolor_override"	"245 245 245 16"
 					}
 

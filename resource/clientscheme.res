@@ -2,6 +2,10 @@ Scheme
 {
 	Colors
 	{
+        // hii
+		"MYPINK"								"248 195 255 255"
+		"MYPINK160"								"248 195 255 160"
+
 		// base colors
 		"Orange"								"178 82 22 255"
 		"OrangeDim"								"178 82 22 120"
@@ -4133,7 +4137,6 @@ Scheme
 				"antialias" "1"
 		  }
 		}
-	}
 
 	//
 	//////////////////// BORDERS //////////////////////////////

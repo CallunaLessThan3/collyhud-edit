@@ -16,6 +16,7 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
     - "View Valid Items" not formatted correctly, changed to match "View Entire Backpack"
 - Centered Medic Ubercharge %
     - (this made vaccinator display rly shit but who uses that anyways)
+- Made green elements pink
 
 ## Planned Changes
 ### Bug fixes
@@ -30,3 +31,7 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
 - health/ammo more centered
 - bigger medic uber % on targetid (couldnt figure out how)
 - update countdown pregame (?)
+- add top players at end of round
+- change health anims
+    - make health always white
+    - add rectangle that changes color if overheal/low (similar to skyhud)

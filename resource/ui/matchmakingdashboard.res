@@ -830,7 +830,7 @@
 			"Command"		"find_game"
 			
 			"border_armed"		"noborder"
-			"armedbgcolor_override"		"softgreen160"
+			"armedbgcolor_override"		"MYPINK160"
 			
 			"proportionaltoparent"	"0"
 			"labeltext"		"PLAY"
