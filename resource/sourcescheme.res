@@ -452,16 +452,15 @@ Scheme
 				"scaley_lodef"	"0.75"
 			}
 		}
-		"ConsoleText"
-		{
-			"1"	[$WIN32]
-			{
-				"name"			"Product Sans"
-				"tall"			"15"
-				"weight"		"0"
-				"antialias"		"1"
-			}
-		}
+        "ConsoleText"
+        {
+            "1"
+            {
+                "name"		"Lucida Console" [$LINUX]
+                "tall"		"14"             [$LINUX]
+                "weight"	"500"
+            }
+        }
 
 		// this is the symbol font
 		"Marlett"
