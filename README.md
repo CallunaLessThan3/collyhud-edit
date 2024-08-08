@@ -18,6 +18,7 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
     - (this made vaccinator display rly shit but who uses that anyways)
 - Made green elements pink
 - Add hud damage numbers to center of screen
+- Changed matchhud
 
 ## Planned Changes
 ### Bug fixes
