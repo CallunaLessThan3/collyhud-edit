@@ -37,3 +37,4 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
 - change health anims
     - make health always white
     - add rectangle that changes color if overheal/low (similar to skyhud)
+- move demoman sticky count to under crosshair
