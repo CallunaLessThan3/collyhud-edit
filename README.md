@@ -3,8 +3,7 @@ There won't be very many big changes, just some personal tweaks and hopefully fi
 
 ### NOTE
 64-bit update broke some things, idk if its specific to my pc but here are things that broke for me after update
-- Game crashes when using hud_reloadscheme in a match
-- Any painted/festivized weapons art is transparent
+ - Any painted/festivized weapons art is transparent
 
 ## Implemented Changes
 - Changed custom kill icons to [Better Consistent Kill Icons (2023)](https://gamebanana.com/mods/406361)
